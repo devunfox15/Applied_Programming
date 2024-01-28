@@ -1,0 +1,26 @@
+.btn{
+    font-size: 20pt;
+    background-color: plum;
+    margin-top: .5em;
+    margin-right: 2em;
+}
+body{
+    background-color: azure;
+}
+.card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    background-color: blanchedalmond;
+    width: 20em;
+    height: 10em;
+    border: 3px solid rgb(159, 186, 255);
+}
+h2{
+    margin-left: .5em;
+    font-size: 25pt;
+}
+.actions{
+    grid-row: 2;
+    grid-column: 3;
+}
