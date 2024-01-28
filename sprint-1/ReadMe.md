@@ -66,35 +66,32 @@ React component is the primary building block of the React application. It uses 
 - vue.js it is like a mixture of angular and react, it includes more core features, a bit less popular than React & angular
 
 
+[First Time react walk through](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 
-# overview
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+# Overview
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
+This past sprint as an engineer i failed and tried to learn something new like react, thinking it was like javascript exactly and that it would be a breeze, little did i know that this new technology would be challenging. After spend 4 hours and watch and walking through great tutorials I was able to learn the basics of components and develope a small buggy test application. For my team assignment I have developed a search engine with out the search part but so far its working out. 
 
-{Describe your purpose for writing this software.}
+After doing some research I found out that you needed to download Node.js in  the backend to run a react sever in the backgroud,I also ran my terminal on my IDE terminal which helped in the developing process and debugging.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+My purpose for writing this software was to get familiar with react and be able to gain a hard skill in it. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/channel/UCKX2m6R7VQp6uIxoGsThxJA)
+
+# Web Pages
+
+So as far as page creation I created a few test pages and then created a mock base for the project, I still have lots of work on this project and am trying hard to get it done. 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+The tools that i ended up using was terminal, devolper tools, IDE, node.js to run the backend sever, react.js for client side programming. I mainly used javaScript, JSX, and Reacts libraies, Html, CSS to make the mock page.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+* [React Tutorial](https://www.tutorialspoint.com/reactjs/reactjs_using_create_react_app_tool.htm)
+* [react.dev](https://react.dev/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+* fixing the bugs in my task program
+* using more react and jsx in my overall program.

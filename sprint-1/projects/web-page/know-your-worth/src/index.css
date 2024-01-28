@@ -1,0 +1,48 @@
+.home-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: aquamarine;
+}
+.home-container a{
+  font-style: italic;
+  color: black;
+  font-size: 25pt;
+  height: 3em;
+  text-decoration: none;
+  text-align: center;
+}
+.home-container a:hover{
+  text-decoration: none;
+  background-color: peachpuff;
+  color: black;
+}
+#root{
+  margin-top: 1em;
+  text-align: center;
+}
+
+.main-container{
+  height: 100em;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+.main-container h2{
+  text-align: center;
+}
+#team-photo-section{
+  width: 90em;
+  height: 20em;
+  background-color: black;
+  margin: 0 auto;
+}
+#opening-photo{
+  width: 90em;
+  height: 30em;
+  background-color: black;
+  margin: 0 auto;
+}
+.footer-container
+{
+  background-color: aqua;
+  height: 10em;
+}
