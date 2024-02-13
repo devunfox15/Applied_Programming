@@ -4,7 +4,7 @@ const SearchBar = () => {
   const [query, setQuery] = useState('');
 
   const handleSearch = () => {
-    // TODO: Implement search function
+    
   };
 
   return (
@@ -15,7 +15,7 @@ const SearchBar = () => {
         value={query}
         onChange={(e) => setQuery(e.target.value)}
       />
-      <button onClick={handleSearch}>Search</button>
+      <button onClick={handleSearch}>Know Your Worth</button>
     </div>
   );
 };
