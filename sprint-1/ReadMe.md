@@ -95,3 +95,4 @@ The tools that i ended up using was terminal, devolper tools, IDE, node.js to ru
 
 * fixing the bugs in my task program
 * using more react and jsx in my overall program.
+* covert vanilla javascript into react

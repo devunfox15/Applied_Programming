@@ -7,7 +7,12 @@
 -  format for a ternary operator
 var voteable = (age < 18) ? "Too young" :"Old enough";
 - document.getElementsByTagName("p")[0].innerHTML = "Hello";
-- 
+
+# Major learning points
+- JavaScript is the web language, and has grown to be one of the most used languages for CS
+- Javascript is Object oriented
+- Javascript however does not have types
+- Javascript has evolved to the point that it can be used for the frontend, backend, severside, etc.
 
 # Overview
 As a frontend software engineer, one of the main scripting languages of our day for website is Javascript, Before this research I had an intermidate understanding of the language but have increased my proficency through the study via [W3 schools Javascript Tutorial](https://www.w3schools.com/js/default.asp) Here I demonstared the activities and processes of learning. 
@@ -27,8 +32,7 @@ The software that I wrote this week was a number guesser in javascript, It gets 
 
 # Useful Websites
 
-
-- [W3 Schools](https://www.w3schools.com/js/)
+- This course is what i used to relearn and learn something new about javascript and its functionalities [W3 Schools](https://www.w3schools.com/js/)
 - [multiple walkthough of simple code](https://www.programiz.com/javascript/examples)
 
 # Future Work
@@ -37,3 +41,4 @@ The software that I wrote this week was a number guesser in javascript, It gets 
 
 - I want to improve it by creating a counter that reset when you click the random button and counts the number of times it takes you to get the answer.
 - Make the homepage design better
+- Javascript is necessary to make a page more dynamic, UI friendly, and provide a user experience wheen visiting the site. 
